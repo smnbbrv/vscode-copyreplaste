@@ -5,6 +5,10 @@
   "author": "smnbbrv",
   "publisher": "smnbbrv",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smnbbrv/vscode-copyreplaste.git"
+  },
   "engines": {
     "vscode": "^1.36.0"
   },
