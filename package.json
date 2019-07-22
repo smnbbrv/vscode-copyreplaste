@@ -3,6 +3,7 @@
   "displayName": "copyreplaste",
   "description": "Adds replace functionality to make ordinary copy-paste tasks easier",
   "author": "smnbbrv",
+  "publisher": "smnbbrv",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.36.0"
